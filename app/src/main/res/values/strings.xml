@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CheckBoxClick</string>
+    <string name="txt_Name">Enter Your Full Name</string>
+    <string name="rdo_Male">Male</string>
+    <string name="rdo_Female">Female</string>
+    <string name="chk_kompot">Kompot</string>
+    <string name="chk_keb">Keb</string>
+    <string name="chk_kompongsam">KompongSam</string>
+    <string name="chk_kompongchnang">KompongChnang</string>
+    <string name="chk_Porsat">Porsat</string>
+    <string name="chk_Btb">BTB</string>
+    <string name="chk_Peilen">Peilen</string>
+    <string name="chk_BMC">BMC</string>
+    <string name="chk_SR">SR</string>
+    <string name="chk_kpt">KompongThom</string>
+    <string name="chk_kpc">Kpc</string>
+    <string name="chk_pv">PV</string>
+    <string name="chk_svayrieng">Svay Rieng</string>
+    <string name="chk_takeo">Takeo</string>
+    <string name="chk_kandal">Kandal</string>
+    <string name="chk_kps">KompongSpeu</string>
+    <string name="chk_kratie">Kratie</string>
+    <string name="chk_stengtreng">StengTreng</string>
+    <string name="chk_mondol">Mondolkiri</string>
+    <string name="chk_PHV">PreashVihear</string>
+    <string name="chk_Ratanakiri">Ratanakiri</string>
+    <string name="chk_kohkong">kohkong</string>
+    <string name="chk_Odormeanchey">Odormeanchey</string>
+    <string name="btn_Click">ClickShow</string>
+  
+
+</resources>
